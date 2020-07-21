@@ -1,0 +1,602 @@
+[
+  {
+    "group": "A",
+    "variable": "v1",
+    "value": 30,
+    "label": "lorem"
+  },
+  {
+    "group": "A",
+    "variable": "v2",
+    "value": 95,
+    "label": "ipsum"
+  },
+  {
+    "group": "A",
+    "variable": "v3",
+    "value": 22,
+    "label": "dolor"
+  },
+  {
+    "group": "A",
+    "variable": "v4",
+    "value": 14,
+    "label": "sit"
+  },
+  {
+    "group": "A",
+    "variable": "v5",
+    "value": 59,
+    "label": "amet"
+  },
+  {
+    "group": "A",
+    "variable": "v6",
+    "value": 52,
+    "label": "consectetur"
+  },
+  {
+    "group": "A",
+    "variable": "v7",
+    "value": 88,
+    "label": "adipiscing"
+  },
+  {
+    "group": "A",
+    "variable": "v8",
+    "value": 20,
+    "label": "lorem"
+  },
+  {
+    "group": "A",
+    "variable": "v9",
+    "value": 99,
+    "label": "elit"
+  },
+  {
+    "group": "A",
+    "variable": "v10",
+    "value": 66,
+    "label": "sed"
+  },
+  {
+    "group": "B",
+    "variable": "v1",
+    "value": 37,
+    "label": "eiusmod"
+  },
+  {
+    "group": "B",
+    "variable": "v2",
+    "value": 50,
+    "label": "tempor"
+  },
+  {
+    "group": "B",
+    "variable": "v3",
+    "value": 81,
+    "label": "incididunt"
+  },
+  {
+    "group": "B",
+    "variable": "v4",
+    "value": 79,
+    "label": "ut"
+  },
+  {
+    "group": "B",
+    "variable": "v5",
+    "value": 84,
+    "label": "labore"
+  },
+  {
+    "group": "B",
+    "variable": "v6",
+    "value": 91,
+    "label": "et"
+  },
+  {
+    "group": "B",
+    "variable": "v7",
+    "value": 82,
+    "label": "dolore"
+  },
+  {
+    "group": "B",
+    "variable": "v8",
+    "value": 89,
+    "label": "magna"
+  },
+  {
+    "group": "B",
+    "variable": "v9",
+    "value": 6,
+    "label": "aliqua"
+  },
+  {
+    "group": "B",
+    "variable": "v10",
+    "value": 67,
+    "label": "ut"
+  },
+  {
+    "group": "C",
+    "variable": "v1",
+    "value": 96,
+    "label": "enim"
+  },
+  {
+    "group": "C",
+    "variable": "v2",
+    "value": 13,
+    "label": "ad"
+  },
+  {
+    "group": "C",
+    "variable": "v3",
+    "value": 98,
+    "label": "minim"
+  },
+  {
+    "group": "C",
+    "variable": "v4",
+    "value": 10,
+    "label": "veniam"
+  },
+  {
+    "group": "C",
+    "variable": "v5",
+    "value": 86,
+    "label": "quis"
+  },
+  {
+    "group": "C",
+    "variable": "v6",
+    "value": 23,
+    "label": "nostrud"
+  },
+  {
+    "group": "C",
+    "variable": "v7",
+    "value": 74,
+    "label": "exercitation"
+  },
+  {
+    "group": "C",
+    "variable": "v8",
+    "value": 47,
+    "label": "ullamco"
+  },
+  {
+    "group": "C",
+    "variable": "v9",
+    "value": 73,
+    "label": "laboris"
+  },
+  {
+    "group": "C",
+    "variable": "v10",
+    "value": 40,
+    "label": "nisi"
+  },
+  {
+    "group": "D",
+    "variable": "v1",
+    "value": 75,
+    "label": "ut"
+  },
+  {
+    "group": "D",
+    "variable": "v2",
+    "value": 18,
+    "label": "aliquip"
+  },
+  {
+    "group": "D",
+    "variable": "v3",
+    "value": 92,
+    "label": "ex"
+  },
+  {
+    "group": "D",
+    "variable": "v4",
+    "value": 43,
+    "label": "ea"
+  },
+  {
+    "group": "D",
+    "variable": "v5",
+    "value": 16,
+    "label": "comido"
+  },
+  {
+    "group": "D",
+    "variable": "v6",
+    "value": 27,
+    "label": "consequat"
+  },
+  {
+    "group": "D",
+    "variable": "v7",
+    "value": 76,
+    "label": "duis"
+  },
+  {
+    "group": "D",
+    "variable": "v8",
+    "value": 24,
+    "label": "aute"
+  },
+  {
+    "group": "D",
+    "variable": "v9",
+    "value": 1,
+    "label": "irure"
+  },
+  {
+    "group": "D",
+    "variable": "v10",
+    "value": 87,
+    "label": "dolor"
+  },
+  {
+    "group": "E",
+    "variable": "v1",
+    "value": 44,
+    "label": "in"
+  },
+  {
+    "group": "E",
+    "variable": "v2",
+    "value": 29,
+    "label": "reprehenderit"
+  },
+  {
+    "group": "E",
+    "variable": "v3",
+    "value": 58,
+    "label": "voluptate"
+  },
+  {
+    "group": "E",
+    "variable": "v4",
+    "value": 55,
+    "label": "cillum"
+  },
+  {
+    "group": "E",
+    "variable": "v5",
+    "value": 65,
+    "label": "fugiat"
+  },
+  {
+    "group": "E",
+    "variable": "v6",
+    "value": 56,
+    "label": "deserunt"
+  },
+  {
+    "group": "E",
+    "variable": "v7",
+    "value": 9,
+    "label": "mollit"
+  },
+  {
+    "group": "E",
+    "variable": "v8",
+    "value": 78,
+    "label": "voluptate"
+  },
+  {
+    "group": "E",
+    "variable": "v9",
+    "value": 49,
+    "label": "anim"
+  },
+  {
+    "group": "E",
+    "variable": "v10",
+    "value": 36,
+    "label": "laborum"
+  },
+  {
+    "group": "F",
+    "variable": "v1",
+    "value": 35,
+    "label": "fugiat"
+  },
+  {
+    "group": "F",
+    "variable": "v2",
+    "value": 80,
+    "label": "nulla"
+  },
+  {
+    "group": "F",
+    "variable": "v3",
+    "value": 8,
+    "label": "pariatur"
+  },
+  {
+    "group": "F",
+    "variable": "v4",
+    "value": 46,
+    "label": "cillum"
+  },
+  {
+    "group": "F",
+    "variable": "v5",
+    "value": 48,
+    "label": "exceptuar"
+  },
+  {
+    "group": "F",
+    "variable": "v6",
+    "value": 100,
+    "label": "sint"
+  },
+  {
+    "group": "F",
+    "variable": "v7",
+    "value": 17,
+    "label": "occaecat"
+  },
+  {
+    "group": "F",
+    "variable": "v8",
+    "value": 41,
+    "label": "cupidatat"
+  },
+  {
+    "group": "F",
+    "variable": "v9",
+    "value": 33,
+    "label": "proident"
+  },
+  {
+    "group": "F",
+    "variable": "v10",
+    "value": 11,
+    "label": "sunt"
+  },
+  {
+    "group": "G",
+    "variable": "v1",
+    "value": 77,
+    "label": "deserunt"
+  },
+  {
+    "group": "G",
+    "variable": "v2",
+    "value": 62,
+    "label": "voluptate"
+  },
+  {
+    "group": "G",
+    "variable": "v3",
+    "value": 94,
+    "label": "culpa"
+  },
+  {
+    "group": "G",
+    "variable": "v4",
+    "value": 15,
+    "label": "fugiat"
+  },
+  {
+    "group": "G",
+    "variable": "v5",
+    "value": 69,
+    "label": "perspiciatis"
+  },
+  {
+    "group": "G",
+    "variable": "v6",
+    "value": 63,
+    "label": "occaecat"
+  },
+  {
+    "group": "G",
+    "variable": "v7",
+    "value": 61,
+    "label": "unde"
+  },
+  {
+    "group": "G",
+    "variable": "v8",
+    "value": 54,
+    "label": "cillum"
+  },
+  {
+    "group": "G",
+    "variable": "v9",
+    "value": 38,
+    "label": "omnis"
+  },
+  {
+    "group": "G",
+    "variable": "v10",
+    "value": 93,
+    "label": "proident"
+  },
+  {
+    "group": "H",
+    "variable": "v1",
+    "value": 39,
+    "label": "cupidatat"
+  },
+  {
+    "group": "H",
+    "variable": "v2",
+    "value": 26,
+    "label": "illo"
+  },
+  {
+    "group": "H",
+    "variable": "v3",
+    "value": 90,
+    "label": "sunt"
+  },
+  {
+    "group": "H",
+    "variable": "v4",
+    "value": 83,
+    "label": "cillum"
+  },
+  {
+    "group": "H",
+    "variable": "v5",
+    "value": 31,
+    "label": "patr"
+  },
+  {
+    "group": "H",
+    "variable": "v6",
+    "value": 2,
+    "label": "fugiat"
+  },
+  {
+    "group": "H",
+    "variable": "v7",
+    "value": 51,
+    "label": "inventore"
+  },
+  {
+    "group": "H",
+    "variable": "v8",
+    "value": 28,
+    "label": "quisquam"
+  },
+  {
+    "group": "H",
+    "variable": "v9",
+    "value": 42,
+    "label": "voluptate"
+  },
+  {
+    "group": "H",
+    "variable": "v10",
+    "value": 7,
+    "label": "dolorem"
+  },
+  {
+    "group": "I",
+    "variable": "v1",
+    "value": 5,
+    "label": "ipsum"
+  },
+  {
+    "group": "I",
+    "variable": "v2",
+    "value": 60,
+    "label": "sunt"
+  },
+  {
+    "group": "I",
+    "variable": "v3",
+    "value": 21,
+    "label": "amet"
+  },
+  {
+    "group": "I",
+    "variable": "v4",
+    "value": 25,
+    "label": "quia"
+  },
+  {
+    "group": "I",
+    "variable": "v5",
+    "value": 3,
+    "label": "cillum"
+  },
+  {
+    "group": "I",
+    "variable": "v6",
+    "value": 70,
+    "label": "consectetur"
+  },
+  {
+    "group": "I",
+    "variable": "v7",
+    "value": 34,
+    "label": "ipsum"
+  },
+  {
+    "group": "I",
+    "variable": "v8",
+    "value": 68,
+    "label": "occaecat"
+  },
+  {
+    "group": "I",
+    "variable": "v9",
+    "value": 57,
+    "label": "voluptate"
+  },
+  {
+    "group": "I",
+    "variable": "v10",
+    "value": 32,
+    "label": "dolorem"
+  },
+  {
+    "group": "J",
+    "variable": "v1",
+    "value": 19,
+    "label": "sunt"
+  },
+  {
+    "group": "J",
+    "variable": "v2",
+    "value": 85,
+    "label": "cillum"
+  },
+  {
+    "group": "J",
+    "variable": "v3",
+    "value": 53,
+    "label": "dolorem"
+  },
+  {
+    "group": "J",
+    "variable": "v4",
+    "value": 45,
+    "label": "proident"
+  },
+  {
+    "group": "J",
+    "variable": "v5",
+    "value": 71,
+    "label": "cupidatat"
+  },
+  {
+    "group": "J",
+    "variable": "v6",
+    "value": 64,
+    "label": "culpa"
+  },
+  {
+    "group": "J",
+    "variable": "v7",
+    "value": 4,
+    "label": "cupidatat"
+  },
+  {
+    "group": "J",
+    "variable": "v8",
+    "value": 12,
+    "label": "voluptate"
+  },
+  {
+    "group": "J",
+    "variable": "v9",
+    "value": 97,
+    "label": "occaecat"
+  },
+  {
+    "group": "J",
+    "variable": "v10",
+    "value": 72,
+    "label": "cillum"
+  }
+]

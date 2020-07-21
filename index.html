@@ -1,0 +1,32 @@
+<!-- Code from d3-graph-gallery.com -->
+<!DOCTYPE html>
+<meta charset="utf-8" />
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Heat map</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- Search block -->
+    <input type="text" 
+           class="search-box" 
+           id="txtName" 
+           name="txt-Name" 
+           placeholder="Search for something.."
+           onkeyup="highlightBlocks(this.value)" ></input>
+
+    <!-- X axis container -->
+    <div id="x_axis_wrapper"></div>
+
+    <!-- Heat map container -->
+    <div id="my_dataviz"></div>
+
+    <!-- Load d3.js -->
+    <script src="js/d3.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
