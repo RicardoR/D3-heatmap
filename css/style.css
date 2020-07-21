@@ -1,6 +1,7 @@
 #my_dataviz {
   height: 200px;
   overflow-y: scroll;
+  overflow-x: hidden;
   width: 450px;
 }
 
